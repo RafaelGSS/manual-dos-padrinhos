@@ -30,16 +30,20 @@ export default function ManualPadrinhosMadrinhas() {
                 <h3 className="mb-4 text-xl font-medium text-[#5a5a5a]">Cores Recomendadas</h3>
                 <div className="flex flex-wrap gap-4">
                   <div className="flex flex-col items-center">
-                    <div className="h-20 w-20 rounded-full bg-[#2c3e50]"></div>
-                    <span className="mt-2 text-sm">Azul Marinho</span>
+                    <div className="h-20 w-20 rounded-full bg-[#F5E1C8]"></div>
+                    <span className="mt-2 text-sm">Bege</span>
                   </div>
                   <div className="flex flex-col items-center">
-                    <div className="h-20 w-20 rounded-full bg-[#34495e]"></div>
-                    <span className="mt-2 text-sm">Azul Escuro</span>
+                    <div className="h-20 w-20 rounded-full bg-[#D3D3D3]"></div>
+                    <span className="mt-2 text-sm">Cinza Claro</span>
                   </div>
                   <div className="flex flex-col items-center">
-                    <div className="h-20 w-20 rounded-full bg-[#7f8c8d]"></div>
-                    <span className="mt-2 text-sm">Cinza</span>
+                    <div className="h-20 w-20 rounded-full bg-[#A9A9A9]"></div>
+                    <span className="mt-2 text-sm">Cinza Médio</span>
+                  </div>
+                  <div className="flex flex-col items-center">
+                    <div className="h-20 w-20 rounded-full bg-[#4B4B4B]"></div>
+                    <span className="mt-2 text-sm">Grafite</span>
                   </div>
                 </div>
               </div>
@@ -47,8 +51,7 @@ export default function ManualPadrinhosMadrinhas() {
               <div className="mb-8">
                 <h3 className="mb-4 text-xl font-medium text-[#5a5a5a]">Exemplos de Trajes</h3>
                 <p className="mb-4 text-[#5a5a5a]">
-                  Sugerimos ternos em tons escuros (azul marinho ou cinza escuro), com camisa branca e gravata em tons
-                  que combinem com as cores do casamento.
+                  Sugerimos ternos ou camisa social nas cores recomendadas. No entando, se não houver, tá tudo certo também
                 </p>
                 <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3">
                   <div className="overflow-hidden rounded-lg">
@@ -85,9 +88,8 @@ export default function ManualPadrinhosMadrinhas() {
                 <h3 className="mb-4 text-xl font-medium text-[#5a5a5a]">Dicas Importantes</h3>
                 <ul className="list-inside list-disc space-y-2 text-[#5a5a5a]">
                   <li>Evite cores muito claras que possam se confundir com o traje do noivo</li>
-                  <li>Prefira sapatos sociais escuros e bem polidos</li>
                   <li>Acessórios discretos como abotoaduras são bem-vindos</li>
-                  <li>Em caso de dúvidas, entre em contato com os noivos</li>
+                  <li>Em caso de dúvidas, entre em contato com o SAC: 4002-8922</li>
                 </ul>
               </div>
             </div>
