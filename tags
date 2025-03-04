@@ -1,0 +1,90 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Action	hooks/use-toast.ts	/^type Action =$/;"	t
+ActionType	hooks/use-toast.ts	/^type ActionType = typeof actionTypes$/;"	t
+Badge	components/ui/badge.tsx	/^function Badge({ className, variant, ...props }: BadgeProps) {$/;"	f
+BadgeProps	components/ui/badge.tsx	/^export interface BadgeProps$/;"	i
+ButtonProps	components/ui/button.tsx	/^export interface ButtonProps$/;"	i
+Calendar	components/ui/calendar.tsx	/^function Calendar({$/;"	f
+CalendarProps	components/ui/calendar.tsx	/^export type CalendarProps = React.ComponentProps<typeof DayPicker>$/;"	t
+CarouselApi	components/ui/carousel.tsx	/^  type CarouselApi,$/;"	t
+CarouselApi	components/ui/carousel.tsx	/^type CarouselApi = UseEmblaCarouselType[1]$/;"	t
+CarouselContextProps	components/ui/carousel.tsx	/^type CarouselContextProps = {$/;"	t
+CarouselOptions	components/ui/carousel.tsx	/^type CarouselOptions = UseCarouselParameters[0]$/;"	t
+CarouselPlugin	components/ui/carousel.tsx	/^type CarouselPlugin = UseCarouselParameters[1]$/;"	t
+CarouselProps	components/ui/carousel.tsx	/^type CarouselProps = {$/;"	t
+ChartConfig	components/ui/chart.tsx	/^export type ChartConfig = {$/;"	t
+ChartContextProps	components/ui/chart.tsx	/^type ChartContextProps = {$/;"	t
+DEFAULT	tailwind.config.js	/^          DEFAULT: "hsl(var(--accent))",$/;"	P
+DEFAULT	tailwind.config.js	/^          DEFAULT: "hsl(var(--card))",$/;"	P
+DEFAULT	tailwind.config.js	/^          DEFAULT: "hsl(var(--destructive))",$/;"	P
+DEFAULT	tailwind.config.js	/^          DEFAULT: "hsl(var(--muted))",$/;"	P
+DEFAULT	tailwind.config.js	/^          DEFAULT: "hsl(var(--popover))",$/;"	P
+DEFAULT	tailwind.config.js	/^          DEFAULT: "hsl(var(--primary))",$/;"	P
+DEFAULT	tailwind.config.js	/^          DEFAULT: "hsl(var(--secondary))",$/;"	P
+ManualPadrinhosMadrinhas	app/page.tsx	/^export default function ManualPadrinhosMadrinhas() {$/;"	f
+RootLayout	app/layout.tsx	/^export default function RootLayout({$/;"	f
+State	hooks/use-toast.ts	/^interface State {$/;"	i
+ThemeProvider	components/theme-provider.tsx	/^export function ThemeProvider({ children, ...props }: ThemeProviderProps) {$/;"	f
+ThemeProviderProps	components/theme-provider.tsx	/^  type ThemeProviderProps,$/;"	t
+Toast	hooks/use-toast.ts	/^type Toast = Omit<ToasterToast, "id">$/;"	t
+ToasterToast	hooks/use-toast.ts	/^type ToasterToast = ToastProps & {$/;"	t
+UseCarouselParameters	components/ui/carousel.tsx	/^type UseCarouselParameters = Parameters<typeof useEmblaCarousel>$/;"	t
+UseEmblaCarouselType	components/ui/carousel.tsx	/^  type UseEmblaCarouselType,$/;"	t
+__BUILD_MANIFEST	.next/server/middleware-build-manifest.js	/^self.__BUILD_MANIFEST = {$/;"	P
+__BUILD_MANIFEST	.next/static/development/_buildManifest.js	/^self.__BUILD_MANIFEST = {__rewrites:{afterFiles:[],beforeFiles:[],fallback:[]},sortedPages:["\\u002F_app"]};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()/;"	P
+accent	tailwind.config.js	/^        accent: {$/;"	P
+animation	tailwind.config.js	/^      animation: {$/;"	P
+background	tailwind.config.js	/^        background: "hsl(var(--background))",$/;"	P
+border	tailwind.config.js	/^        border: "hsl(var(--border))",$/;"	P
+borderRadius	tailwind.config.js	/^      borderRadius: {$/;"	P
+card	tailwind.config.js	/^        card: {$/;"	P
+center	tailwind.config.js	/^      center: true,$/;"	P
+cn	lib/utils.ts	/^export function cn(...inputs: ClassValue[]) {$/;"	f
+colors	tailwind.config.js	/^      colors: {$/;"	P
+container	tailwind.config.js	/^    container: {$/;"	P
+content	tailwind.config.js	/^  content: [$/;"	P
+darkMode	tailwind.config.js	/^  darkMode: ["class"],$/;"	P
+destructive	tailwind.config.js	/^        destructive: {$/;"	P
+dispatch	hooks/use-toast.ts	/^function dispatch(action: Action) {$/;"	f
+exports	tailwind.config.js	/^module.exports = {$/;"	P
+extend	tailwind.config.js	/^    extend: {$/;"	P
+foreground	tailwind.config.js	/^          foreground: "hsl(var(--accent-foreground))",$/;"	P
+foreground	tailwind.config.js	/^          foreground: "hsl(var(--card-foreground))",$/;"	P
+foreground	tailwind.config.js	/^          foreground: "hsl(var(--destructive-foreground))",$/;"	P
+foreground	tailwind.config.js	/^          foreground: "hsl(var(--muted-foreground))",$/;"	P
+foreground	tailwind.config.js	/^          foreground: "hsl(var(--popover-foreground))",$/;"	P
+foreground	tailwind.config.js	/^          foreground: "hsl(var(--primary-foreground))",$/;"	P
+foreground	tailwind.config.js	/^          foreground: "hsl(var(--secondary-foreground))",$/;"	P
+foreground	tailwind.config.js	/^        foreground: "hsl(var(--foreground))",$/;"	P
+from	tailwind.config.js	/^          from: { height: "var(--radix-accordion-content-height)" },$/;"	P
+from	tailwind.config.js	/^          from: { height: 0 },$/;"	P
+genId	hooks/use-toast.ts	/^function genId() {$/;"	f
+getPayloadConfigFromPayload	components/ui/chart.tsx	/^function getPayloadConfigFromPayload($/;"	f
+input	tailwind.config.js	/^        input: "hsl(var(--input))",$/;"	P
+keyframes	tailwind.config.js	/^      keyframes: {$/;"	P
+lg	tailwind.config.js	/^        lg: "var(--radius)",$/;"	P
+md	tailwind.config.js	/^        md: "calc(var(--radius) - 2px)",$/;"	P
+metadata	app/layout.tsx	/^export const metadata: Metadata = {$/;"	v
+muted	tailwind.config.js	/^        muted: {$/;"	P
+padding	tailwind.config.js	/^      padding: "2rem",$/;"	P
+plugins	tailwind.config.js	/^  plugins: [require("tailwindcss-animate")],$/;"	P
+popover	tailwind.config.js	/^        popover: {$/;"	P
+primary	tailwind.config.js	/^        primary: {$/;"	P
+reducer	hooks/use-toast.ts	/^export const reducer = (state: State, action: Action): State => {$/;"	v
+ring	tailwind.config.js	/^        ring: "hsl(var(--ring))",$/;"	P
+screens	tailwind.config.js	/^      screens: {$/;"	P
+secondary	tailwind.config.js	/^        secondary: {$/;"	P
+sm	tailwind.config.js	/^        sm: "calc(var(--radius) - 4px)",$/;"	P
+theme	tailwind.config.js	/^  theme: {$/;"	P
+to	tailwind.config.js	/^          to: { height: "var(--radix-accordion-content-height)" },$/;"	P
+to	tailwind.config.js	/^          to: { height: 0 },$/;"	P
+toast	hooks/use-toast.ts	/^function toast({ ...props }: Toast) {$/;"	f
+useCarousel	components/ui/carousel.tsx	/^function useCarousel() {$/;"	f
+useChart	components/ui/chart.tsx	/^function useChart() {$/;"	f
+useIsMobile	hooks/use-mobile.tsx	/^export function useIsMobile() {$/;"	f
+useToast	hooks/use-toast.ts	/^function useToast() {$/;"	f
