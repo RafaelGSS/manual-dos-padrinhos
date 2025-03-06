@@ -87,7 +87,6 @@ export default function ManualPadrinhosMadrinhas() {
               <div>
                 <h3 className="mb-4 text-xl font-medium text-[#5a5a5a]">Dicas Importantes</h3>
                 <ul className="list-inside list-disc space-y-2 text-[#5a5a5a]">
-                  <li>Evite cores muito claras que possam se confundir com o traje do noivo</li>
                   <li>Acessórios discretos como abotoaduras são bem-vindos</li>
                   <li>Em caso de dúvidas, entre em contato com o SAC: 4002-8922</li>
                 </ul>
