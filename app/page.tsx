@@ -103,16 +103,24 @@ export default function ManualPadrinhosMadrinhas() {
                 <h3 className="mb-4 text-xl font-medium text-[#5a5a5a]">Paleta de Cores</h3>
                 <div className="flex flex-wrap gap-4">
                   <div className="flex flex-col items-center">
-                    <div className="h-20 w-20 rounded-full bg-[#d4b2a7]"></div>
-                    <span className="mt-2 text-sm">Rosé</span>
+                    <div className="h-20 w-20 rounded-full bg-[#fbb13c]"></div>
+                    <span className="mt-2 text-sm">Amarelo</span>
                   </div>
                   <div className="flex flex-col items-center">
-                    <div className="h-20 w-20 rounded-full bg-[#e8d2c5]"></div>
-                    <span className="mt-2 text-sm">Nude</span>
+                    <div className="h-20 w-20 rounded-full bg-[#fd7920]"></div>
+                    <span className="mt-2 text-sm">Laranja</span>
                   </div>
                   <div className="flex flex-col items-center">
-                    <div className="h-20 w-20 rounded-full bg-[#c9af98]"></div>
-                    <span className="mt-2 text-sm">Bege</span>
+                    <div className="h-20 w-20 rounded-full bg-[#d63977]"></div>
+                    <span className="mt-2 text-sm">Rosa</span>
+                  </div>
+                  <div className="flex flex-col items-center">
+                    <div className="h-20 w-20 rounded-full bg-[#95336b]"></div>
+                    <span className="mt-2 text-sm">Roxo</span>
+                  </div>
+                  <div className="flex flex-col items-center">
+                    <div className="h-20 w-20 rounded-full bg-[#bd4017]"></div>
+                    <span className="mt-2 text-sm">Terracota</span>
                   </div>
                 </div>
               </div>
@@ -126,7 +134,7 @@ export default function ManualPadrinhosMadrinhas() {
                 <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3">
                   <div className="overflow-hidden rounded-lg">
                     <Image
-                      src="/placeholder.svg?height=400&width=300"
+                      src="/madrinha1.jpeg?height=400&width=300"
                       alt="Exemplo de vestido para madrinha 1"
                       width={300}
                       height={400}
@@ -135,7 +143,7 @@ export default function ManualPadrinhosMadrinhas() {
                   </div>
                   <div className="overflow-hidden rounded-lg">
                     <Image
-                      src="/placeholder.svg?height=400&width=300"
+                      src="/madrinha2.jpeg?height=400&width=300"
                       alt="Exemplo de vestido para madrinha 2"
                       width={300}
                       height={400}
@@ -144,7 +152,7 @@ export default function ManualPadrinhosMadrinhas() {
                   </div>
                   <div className="overflow-hidden rounded-lg">
                     <Image
-                      src="/placeholder.svg?height=400&width=300"
+                      src="/madrinha3.jpeg?height=400&width=300"
                       alt="Exemplo de vestido para madrinha 3"
                       width={300}
                       height={400}
@@ -157,7 +165,6 @@ export default function ManualPadrinhosMadrinhas() {
               <div>
                 <h3 className="mb-4 text-xl font-medium text-[#5a5a5a]">Dicas Importantes</h3>
                 <ul className="list-inside list-disc space-y-2 text-[#5a5a5a]">
-                  <li>Evite vestidos brancos ou muito claros para não competir com a noiva</li>
                   <li>Prefira tecidos fluidos e confortáveis</li>
                   <li>Sandálias ou sapatos de salto médio são ideais</li>
                   <li>Acessórios delicados complementam o visual</li>
