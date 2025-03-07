@@ -56,7 +56,7 @@ export default function ManualPadrinhosMadrinhas() {
                 <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3">
                   <div className="overflow-hidden rounded-lg">
                     <Image
-                      src="/placeholder.svg?height=400&width=300"
+                      src="/padrinho1.jpg?height=400&width=300"
                       alt="Exemplo de traje para padrinho 1"
                       width={300}
                       height={400}
@@ -65,7 +65,7 @@ export default function ManualPadrinhosMadrinhas() {
                   </div>
                   <div className="overflow-hidden rounded-lg">
                     <Image
-                      src="/placeholder.svg?height=400&width=300"
+                      src="/padrinho2.jpg?height=400&width=300"
                       alt="Exemplo de traje para padrinho 2"
                       width={300}
                       height={400}
@@ -74,7 +74,7 @@ export default function ManualPadrinhosMadrinhas() {
                   </div>
                   <div className="overflow-hidden rounded-lg">
                     <Image
-                      src="/placeholder.svg?height=400&width=300"
+                      src="/padrinho3.jpg?height=400&width=300"
                       alt="Exemplo de traje para padrinho 3"
                       width={300}
                       height={400}
